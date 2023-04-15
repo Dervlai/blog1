@@ -3,8 +3,8 @@
 layout: home
 
 hero:
-  name: "My Awesome Project"
-  text: "A VitePress Site"n
+  name: "Myself Intruction"
+  text: "Dervlai"
   tagline: My great project tagline
   actions:
     - theme: brand
@@ -15,11 +15,11 @@ hero:
       link: /api-examples
 
 features:
-  - title: 选项A
+  - title: REASON ONE
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 选项B
+  - title: REASON TWO
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: 选项C
+  - title: REASON THREE
     details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
 ---
 
